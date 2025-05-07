@@ -15,7 +15,7 @@ role: Assistant Professor
 # Organizations/Affiliations
 organizations:
   - name: University of Calgary
-    url: ''
+    url: 'https://www.ucalgary.ca/'
 
 # Short bio (displayed in user profile at end of posts)
 bio: My research interests include xxx
@@ -46,6 +46,9 @@ social:
   - icon: google-scholar
     icon_pack: ai
     link: https://scholar.google.com/citations?user=7PozR9oAAAAJ&hl=en&oi=ao
+  - icon: linkedin
+    icon_pack: fab
+    link: https://www.linkedin.com/in/kale-vaishnavi
   - icon: github
     icon_pack: fab
     link: https://github.com/vaishnavi-kale
@@ -56,7 +59,7 @@ social:
 #   link: files/cv.pdf
 
 # Enter email to display Gravatar (if Gravatar enabled in Config)
-email: ''
+email: 'vaishnavi.kale@ucalgary.ca'
 
 # Highlight the author in author lists? (true/false)
 highlight_name: false
