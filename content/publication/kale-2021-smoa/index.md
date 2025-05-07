@@ -1,0 +1,34 @@
+---
+title: On Determining the Optimal Shape, Speed, and Size of Metal Flywheel Rotors
+  with Maximum Kinetic Energy
+authors:
+- Vaishnavi Kale
+- Mia Thomas
+- Marc Secanell
+date: '2021-05-01'
+publishDate: '2025-05-07T19:58:16.116854Z'
+publication_types:
+- article-journal
+publication: '*Structural and Multidisciplinary Optimization*'
+doi: 10.1007/s00158-021-02935-x
+abstract: Flywheel energy storage systems (FESS) are devices that are used in short
+  duration grid-scale energy storage applications such as frequency regulation and
+  fault protection. The energy storage component of the FESS is a flywheel rotor,
+  which can store mechanical energy as the inertia of a rotating disk. This article
+  explores the interdependence of key rotor design parameters, i.e., shape, operating
+  speed, rotor radius, standby losses, and choice of material, and their influence
+  on the energy storage characteristics of the FESS. Two commercially manufactured
+  metal flywheels with distinct energy storage characteristics are used as case studies
+  to examine the potential benefit of using shape optimization in combination with
+  operating speed, size, and material selection for rotor design. A sequential hybrid
+  optimization strategy that combines a global genetic algorithm with a gradient-based
+  local method is used to solve the rotor shape optimization problem. The choice of
+  an optimal combination of operating speed and rotor radius, together with shape
+  optimization, is demonstrated to provide 21– 46% improvements in the energy capacity
+  of two existing commercial FESS designs. Results show that self discharge losses
+  in the rotor can be reduced by designing optimally shaped rotors with large radii
+  operating at low speeds. It is advantageous, on an ``energy-per-cost of material''
+  basis, to use steel as the rotor material for optimally shaped flywheels with large
+  radii operated at low speeds. Conversely, aluminium is a better choice of material
+  for flywheels with smaller radii operated at high speeds.
+---
