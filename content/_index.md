@@ -15,7 +15,7 @@ sections:
       text: |
         <br>
         
-        The **Kale Research Group** performs cutting-edge research in the areas of topology optimization aided design for energy and biomedical system design.
+        The **Kale Research Group** performs cutting-edge research in the areas of topology optimization aided design for energy system design.
   
   - block: collection
     content:
