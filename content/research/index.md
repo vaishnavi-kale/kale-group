@@ -28,8 +28,8 @@ sections:
               brightness: 0.7
           position: center
           color: '#555'
-      - title: World-Class Semiconductor Lab
-        content: 'Just opened last month!'
+      - title: Topology optimization-aided design lab
+        content: 'Renewable and sustainable energy devices'
         align: right
         background:
           image:
@@ -42,7 +42,7 @@ sections:
           icon: graduation-cap
           icon_pack: fas
           text: Join Us
-          url: ../contact/
+          url: ../opportunity/
     design:
       # Slide height is automatic unless you force a specific height (e.g. '400px')
       slide_height: ''

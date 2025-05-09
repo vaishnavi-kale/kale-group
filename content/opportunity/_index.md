@@ -1,5 +1,5 @@
 ---
-title: Opportunities 
+title: Current opportunities 
 
 # Listing view
 view: compact
